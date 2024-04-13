@@ -1,0 +1,5 @@
+------------------------ Multijugador ------------------------
+
+Se necesitan dos jugadores para estp, del cual cada uno elegirá un juego de cartas y el de mayor sumatoria gana.
+
+Nota: Aun no se integran los datos, por lo cual no es funcional.
