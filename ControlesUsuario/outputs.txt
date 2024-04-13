@@ -1,0 +1,3 @@
+---------------------- Funcionalidad de la pantalla ----------------------
+
+En base a los botones presionados en el input, realizará una acción mostrada por medio de la pantalla

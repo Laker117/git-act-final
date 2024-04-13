@@ -1,0 +1,7 @@
+---------------------- Funcionalidad de los botones ----------------------
+
+Simbologia:
+- Naranja: Entrega el resultado en pantalla
+- Verde: Números para realizar operaciones
+- Morado: Operaciones básicas
+- Gris: Operaciones avanzadas
