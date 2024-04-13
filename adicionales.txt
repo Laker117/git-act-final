@@ -1,5 +1,0 @@
------------------------- Wifi ------------------------
-
-DETALLES DE LA RED
-> Nombre: Maestros UES
-> Contraseña: Ues123456789$ 
