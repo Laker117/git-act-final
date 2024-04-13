@@ -5,4 +5,5 @@ Pasos de graficacion:
 2- Hacer una sumatoria general para obtener el 100%
 3- Convertir cada dato a porcentaje
 4- Llevarlo a un entorno visual
-5- Mostrar gráfica
+5- Mostrar gráfica 
+
