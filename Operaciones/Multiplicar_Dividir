@@ -7,5 +7,3 @@ a * b = c
 ~ ~ ~ ~ Dividir ~ ~ ~ ~
 
 a / b = c
-
-NOTA: La división presenta fallos al momento de intentar hacer divisiones entre 0, revisar el codigo e implementar una corrección en el codigo
